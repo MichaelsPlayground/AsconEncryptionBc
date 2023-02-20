@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsconEncryptionBc</string>
+    <string name="consoleTitle"><b>Console</b></string>
+    <string name="btnRunCodeText">run your code</string>
+    <string name="btnClearConsoleText">clear console</string>
+    <string name="textViewConsoleText">. press the RUN YOUR CODE button\n. it may take some seconds before a result is shown, please be patient</string>
+    <string name="warning_en">Some algorithms will run several minutes to proceed and can block your complete user interface, so please run the app only when you don\'t need your smartphone for the next minutes.</string>
+</resources>
