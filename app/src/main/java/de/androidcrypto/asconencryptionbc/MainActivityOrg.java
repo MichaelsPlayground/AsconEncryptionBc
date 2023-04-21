@@ -34,7 +34,7 @@ import java.security.Provider;
 import java.security.Security;
 import java.util.Arrays;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivityOrg extends AppCompatActivity {
 
     private static final String TAG = "AsconExample";
     TextView textViewConsole, runtimeWarning;
@@ -303,7 +303,7 @@ public class MainActivity extends AppCompatActivity {
     public void clearConsole() {
         consoleText = "";
         textViewConsole.setText(consoleText);
-        MainActivity.this.setTitle(APPTITLE);
+        MainActivityOrg.this.setTitle(APPTITLE);
     }
 
     public void printlnX(String print) {
